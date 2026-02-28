@@ -1,0 +1,41 @@
+<details open><summary>
+
+# List of companies engaging in human rights violations
+</summary>
+
+## Capgemini
+<blockquote>
+<br>
+
+_source: [Wikipedia](https://en.wikipedia.org/wiki/Capgemini#Controversies)_
+### <span style="color:#f7342a">Collaboration with ICE</span>
+
+__Capgemini__ is a `long-standing partner of US Immigration and Customs Enforcement (ICE)`, with contracts, often worth tens of millions of dollars, dating back to at least 2007. The services range from IT support to "detention planning". The company advertised this partnership in the "customer stories" section of its website, boasting that "the Capgemini team works closely to help [ICE] minimize the time and cost required to deport all deportable illegal aliens from the United States".[43]
+
+In November 2025, Capgemini responded to and accepted a new call for tenders to help ICE identify and locate foreigners. The French company was awarded the largest share of the contract, earning some $365 million, with revenue indexed to performance and financial bonuses based on the success rate in verifying the addresses of foreigners.[43] Although the company initially chose to publicize this partnership on its website, all references to it were removed less than a week after journalistic publications on the topic.[44]
+
+<br> 
+</blockquote>
+
+## Booking.com
+<blockquote>
+<br>
+
+_source: [nietmijnaanslag.nl](https://www.nietmijnaanslag.nl/booking)_
+### <span style="color:#f7342a">Accommodations in the OPT</span>
+
+Booking.com, based in Amsterdam, is one of the largest travel platforms in the world. But behind the scenes, the company earns millions from illegal Israeli settlements in Occupied Palestinian Territory (OPT). According to Amnesty International and the United Nations, booking.com contributes to the expansion and maintenance of these settlements. Companies such as Airbnb, TripAdvisor and Expedia are also on this list.
+
+By offering accommodations in settlements in the occupied West Bank, including East Jerusalem, the Dutch company Booking.com helps make these settlements more profitable. According to research by  The Guardian and Somo, Booking.com manages 70 accommodations in occupied territory. The company takes a commission of around 15% per booking. That profit is funneled to its headquarters in the Netherlands and directly contributes to Booking.com's multi-billion-euro annual revenue.
+
+### <span style="color:#f7342a">Charges of aiding and abetting war crimes</span>
+
+In November 2023, SOMO, the European Legal Support Center (ELSC), Al-Haq, and The Rights Forum filed a complaint against Booking.com. They accuse the company of complicity in war crimes in the occupied Palestinian territories. According to them, Booking.com is guilty of money laundering by allowing profits from war crimes to flow through the Dutch financial system. The amount involved is said to be approximately one million euros.
+
+By offering vacation rentals in Israeli settlements, Booking.com helps normalize the occupation. The company contributes to land grabbing, violence against Palestinians, and forced displacement. Airbnb also continues to operate in occupied territory. This stands in direct violation of the 2024 ruling by the International Court of Justice, which declared the Israeli occupation illegal and called on companies to withdraw their involvement.
+
+Yet Booking.com and Airbnb continue to expand their operations in these areas. Since SOMO filed its first complaint, Booking.com has even expanded its offerings in the occupied West Bank. This must come to an immediate end.
+
+<br> 
+</blockquote>
+</details>
