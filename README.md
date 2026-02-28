@@ -22,7 +22,7 @@ In November 2025, Capgemini responded to and accepted a new call for tenders to 
 <br>
 
 _source: [nietmijnaanslag.nl](https://www.nietmijnaanslag.nl/booking)_
-### <span style="color:red">Accommodations in the OPT</span>
+### <span style="color:#f7342a">Accommodations in the OPT</span>
 
 Booking.com, based in Amsterdam, is one of the largest travel platforms in the world. But behind the scenes, the company earns millions from illegal Israeli settlements in Occupied Palestinian Territory (OPT). According to Amnesty International and the United Nations, booking.com contributes to the expansion and maintenance of these settlements. Companies such as Airbnb, TripAdvisor and Expedia are also on this list.
 
