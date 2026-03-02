@@ -29,7 +29,7 @@ Ask your fellow students (the ones you trust) for help.
 Even if they can't help you with the answer, they still can support you by just being there. Most of the times it helps to notice your blind spots.  
 
 ## Challenge
-For Codam, there is already two companies found so far doing evil shit: one is benefiting from war, and another is aiding deportations (and in many cases killings) of people.
+For Codam, there is already two companies found so far doing evil shit: one is benefiting from genocide, and another is aiding deportations (and in many cases killings) of people.
 These companies were invited to collaborate or mentioned as an opportunity by the Codam's stuff in some way or another.
 Which made some students at Codam concerned, because it normalizes such companies.
 And also tricks students, who otherwise would never want to work with such companies because of their values.  
