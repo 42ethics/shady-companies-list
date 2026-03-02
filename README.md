@@ -1,6 +1,15 @@
-<details open><summary>
+# Political awareness piscine (kinda)
 
-# List of companies engaging in human rights violations
+Welcome, fellow student! Thank you for taking your time to read this!  
+
+## Description  
+It seems that nowadays the skills of learning and applying politics/ethics in your field of work (in our case, programming) is not really being encouraged, despite it being very important to have.  
+We are peer-to-peer learning from each other everyday about programming, but not about history or current time examples of our competence being used to exploit or to harm people.
+
+
+<details><summary>
+
+## List of companies engaging in human rights violations
 </summary>
 
 ## Capgemini
