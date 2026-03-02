@@ -1,6 +1,6 @@
 # political awareness piscine (kinda)
 
-Welcome, fellow student! Thank you for taking your time to read this!  
+Welcome, fellow student! Thank you for showing your interest!  
 This repo is made primarily for and by CODAM Coding College students.  
 If you wish to adapt it to your uni, feel free to fork it.  
 
